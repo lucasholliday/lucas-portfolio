@@ -1,8 +1,5 @@
 ### Lucas Holliday Final Project: Personal Portfolio
 
-## Project Video:
-Link: https://drive.google.com/file/d/1rk-Pt4G5lZB6DCFgy1rYUkmZkwGDX9AV/view?usp=sharing
-
 Instructions to run this site from the included files.
 
 ## Requirements
