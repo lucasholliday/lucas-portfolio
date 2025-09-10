@@ -1,6 +1,6 @@
 ### Lucas Holliday Final Project: Personal Portfolio
 
-Live Site: lucasholliday.com
+Live Site: https://lucasholliday.com
 
 Instructions to run this site from the included files.
 
